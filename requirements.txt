@@ -1,0 +1,7 @@
+gunicorn
+flask
+pickle
+pandas
+pathlib
+tempfile
+MMSA-FET
