@@ -2,7 +2,6 @@ from MSA_FET import FeatureExtractionTool, get_default_config
 import pickle as pkl
 import pandas as pd
 from flask import Flask , request
-import json
 from pathlib import Path
 import tempfile 
 
