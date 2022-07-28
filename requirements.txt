@@ -2,5 +2,4 @@ gunicorn
 flask
 pandas
 pathlib
-tempfile
 MMSA-FET
