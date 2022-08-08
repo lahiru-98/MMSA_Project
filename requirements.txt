@@ -42,8 +42,6 @@ importlib-metadata
 joblib
 kiwisolver
 
-libpng
-
 libxml2
 libzlib
 llvmlite
