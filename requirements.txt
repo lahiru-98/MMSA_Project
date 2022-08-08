@@ -7,7 +7,7 @@ pathlib
 # platform: win-64
 
 absl-py
-aom
+aom=3.4.0=h0e60522_1
 appdirs
 attrs
 audeer
