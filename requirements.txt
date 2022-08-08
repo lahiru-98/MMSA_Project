@@ -41,7 +41,7 @@ importlib-metadata
 
 joblib
 kiwisolver
-libiconv
+
 libpng
 
 libxml2
