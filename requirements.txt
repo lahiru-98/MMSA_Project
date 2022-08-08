@@ -51,9 +51,6 @@ pycparser
 pyparsing
 pysocks
 
-
-
-python_abi
 pytz
 pyyaml
 regex
