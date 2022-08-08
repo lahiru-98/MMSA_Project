@@ -78,8 +78,7 @@ vc
 
 wheel
 wincertstore
-x264
-x265
+
 zipp
 zlib
 
