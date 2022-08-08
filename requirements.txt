@@ -75,7 +75,7 @@ typing-extensions
 tzdata
 urllib3
 vc
-vs2015_runtime
+
 wheel
 wincertstore
 x264
