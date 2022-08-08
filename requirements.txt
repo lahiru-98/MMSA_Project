@@ -27,7 +27,7 @@ click
 colorama
 cycler
 decorator
-expat
+
 ffmpeg
 ffmpeg-python
 filelock
