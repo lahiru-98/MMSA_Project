@@ -7,7 +7,6 @@ pathlib
 # platform: win-64
 
 absl-py
-
 appdirs
 attrs
 audeer
@@ -18,8 +17,6 @@ audioread
 audobject
 audresample
 beautifulsoup4
-
-
 certifi
 cffi
 charset-normalizer
@@ -27,23 +24,16 @@ click
 colorama
 cycler
 decorator
-
 ffmpeg
 ffmpeg-python
 filelock
-
-
 future
 gdown
 huggingface-hub
 idna
 importlib-metadata
-
 joblib
 kiwisolver
-
-libxml2
-libzlib
 llvmlite
 
 mmsa-fet
