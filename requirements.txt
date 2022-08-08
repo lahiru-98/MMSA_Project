@@ -65,7 +65,7 @@ soundfile
 soupsieve
 sox
 
-svt-av1
+
 threadpoolctl
 tokenizers
 torch
