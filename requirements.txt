@@ -32,7 +32,7 @@ ffmpeg
 ffmpeg-python
 filelock
 
-freetype
+
 future
 gdown
 huggingface-hub
