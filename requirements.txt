@@ -19,7 +19,7 @@ audobject
 audresample
 beautifulsoup4
 
-ca-certificates
+
 certifi
 cffi
 charset-normalizer
