@@ -40,9 +40,6 @@ mmsa-fet
 numba
 numpy
 opencv-contrib-python
-
-
-openssl
 oyaml
 packaging
 
